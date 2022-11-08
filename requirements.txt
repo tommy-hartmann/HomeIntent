@@ -4,6 +4,7 @@ paho-mqtt==1.6.1
 pydantic==1.9.1
 PyYAML==6.0
 humanize==4.2.3 ## needed for the timer
+babel==2.11.0 ## needed for the datetime info
 
 # for the ui
 uvicorn[standard]==0.17.6
